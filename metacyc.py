@@ -1,4 +1,4 @@
-from ...api import *
+from data_model import *
 from Bio import SeqIO, GenBank
 from Bio.Seq import Seq
 from tabulate import tabulate
